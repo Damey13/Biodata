@@ -1,0 +1,19 @@
+.orange {
+    background-color: orange;
+}
+
+.align {
+    text-align: center;
+}
+
+.green {
+    background-color: green;
+}
+
+.border {
+
+    width: 800px;
+    padding: 20px;
+    border-style: solid;
+    border-color: black;
+}
